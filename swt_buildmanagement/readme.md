@@ -13,4 +13,4 @@ Aufgabe Buildmanagement
 - doc
 
 
-[Lösung (build.xml):](https://github.com/aspecialkey/swt/blob/master/swt_buildmanagement/src/build.xml)
+[Lösung (build.xml)](https://github.com/aspecialkey/swt/blob/master/swt_buildmanagement/src/build.xml)
