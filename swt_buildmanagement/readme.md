@@ -11,3 +11,6 @@ Aufgabe Buildmanagement
 - test
 - run
 - doc
+
+
+[Lösung (build.xml):](https://github.com/aspecialkey/swt/blob/master/swt_buildmanagement/src/build.xml)
